@@ -6,7 +6,8 @@ class test
         System.out.println("main method started");
 
         int a=10,b=0,c;
-        try{
+        try
+        {
 
             c=a/b;  // c=10/0
             System.out.println(c);
